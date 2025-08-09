@@ -1,20 +1,20 @@
-# \# Meu Perfil
+# Meu Perfil
 
 # 
 
-# \## Sou Lucas
+## Sou Lucas
 
-# \- Brasileiro
+- Brasileiro
 
-# \- Estudante do curso de "Programação com Java e C#"
+- Estudante do curso de "Programação com Java e C#"
 
-# \- Natural de Belo Horizonte
+- Natural de Belo Horizonte
 
 # 
 
-# \## Meus objetivos 
+## Meus objetivos 
 
-# \- Sair do Brasil
+- Sair do Brasil
 
-# \- ter muito dinheiro
+- ter muito dinheiro
 
